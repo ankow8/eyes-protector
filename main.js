@@ -1,7 +1,5 @@
 'use strict';
 
-mainWindow.webContents.openDevTools();
-
 const path = require('path');
 const { app, BrowserWindow } = require('electron');
 
